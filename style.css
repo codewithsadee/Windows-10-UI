@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  position: relative;
+}
+
+.desktop {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.taskbar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
